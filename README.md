@@ -52,3 +52,6 @@ Monitoring of online events will become easier with the help of EvenTima.
 ![Event List](https://user-images.githubusercontent.com/60173032/117563596-9a13ce80-b0c4-11eb-9fe5-2fced77f11bb.jpg)
 ![Event User Wish List](https://user-images.githubusercontent.com/60173032/117563613-ad269e80-b0c4-11eb-9619-0cbc7aa551c3.jpg)
 ![User Points List](https://user-images.githubusercontent.com/60173032/117563617-b31c7f80-b0c4-11eb-9252-5353473bb8ae.jpg)
+
+# You can see project description here
+https://youtu.be/M0lEssCkukk
