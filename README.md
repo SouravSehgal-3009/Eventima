@@ -35,9 +35,11 @@ Then navigate to \Eventima\eventima_env\Lib\site-packages\betterforms\multiform.
 ● Create/Update/Delete Categories: It enables you to create categories of events. Every
 event created in future will belong to one of the categories. Admin can update info about
 any category later also and even delete it.
+
 ● Create/Update/Delete Event: It enables you to add or create an event (can be multiple
 events at a time) belonging to categories defined. Admin can update and delete the events
 also. Event will have all the prerequisite details.
+
 ● Add Event Member: Admin can add members to the events, assign event to team
 members and keep track of their activity.
 
