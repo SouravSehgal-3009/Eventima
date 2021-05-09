@@ -55,3 +55,9 @@ Monitoring of online events will become easier with the help of EvenTima.
 
 # You can see project description here
 https://youtu.be/M0lEssCkukk
+
+# Credits
+https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2FlcTBlakZHRzZaUTV4TUJXalZER3psbTd0QXxBQ3Jtc0tsNWM1QmZaY2ZrOURXbnctRnlvd3RJS2pObHVZVG5VOUJKNGU4eDVLcHpmalJSaHRNSW5WXzV4QUFCMF93QlJidXRBX3FiR3F4VmZwVWlpMkYtLVY1MUtGZUJEVjlZM1JxMTNsUVE0VlFaZGRWTUpUaw&q=https%3A%2F%2Fgithub.com%2FCoreyMSchafer%2Fcode_snippets%2Ftree%2Fmaster%2FDjango_Blog
+https://github.com/iyanuashiri/meethub
+https://github.com/sajib1066/django-event-management
