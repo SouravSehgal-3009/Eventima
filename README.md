@@ -63,6 +63,4 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2F
 
 https://github.com/iyanuashiri/meethub
 
-https://github.com/sajib1066/django-event-management
-
 https://github.com/msaad1999/KLiK-SocialMediaWebsite
